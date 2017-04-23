@@ -1,0 +1,22 @@
+class Area{
+
+constructor(val){
+
+
+	this.x = val;
+}
+
+	square(){
+return this.x * this.x;
+	}
+
+
+	print(){
+	alert(this.square()):
+	}
+}
+
+var area1 = new Area(3);
+area1.x;
+
+var area2 = new Area(4);
