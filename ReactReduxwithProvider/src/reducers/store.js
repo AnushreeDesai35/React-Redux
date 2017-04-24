@@ -6,6 +6,6 @@ let initialState = {
 	todos:[]
 };
 
-let store = createStore(todoReducer,{initialState});
+let store = createStore(todoReducer,initialState);
 
 export default store;

@@ -3,7 +3,6 @@ import React from 'react';
 class Sticky extends React.Component {
 	constructor(props){
 		super(props);
-		console.log("sticky");
 		}
 		// this.addSticky = this.addSticky.bind(this);
 
