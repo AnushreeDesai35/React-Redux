@@ -1,0 +1,15 @@
+.sticky{
+  border:2px solid blue;
+  width:20%;
+  height: 120px;
+  overflow: auto;
+}
+.sticky .stickyTitle{
+position: fixed;
+width:18%;
+border-bottom: 1px solid blue;
+font-weight: bold;
+}
+.sticky .stickyContent{
+margin-top: 22px;
+}

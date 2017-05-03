@@ -3,6 +3,7 @@ import todoReducer from './todoReducer';
 import { createStore } from 'redux';
 
 let initialState = {
+	//todos:[]
 	todos:[]
 };
 
